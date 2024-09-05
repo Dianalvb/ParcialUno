@@ -1,0 +1,11 @@
+C:\Users\diana\source\repos\BibliotecaClases.shared\Vinculacion.shared\bin\Debug\net8.0\parcialUno.shared.deps.json
+C:\Users\diana\source\repos\BibliotecaClases.shared\Vinculacion.shared\bin\Debug\net8.0\parcialUno.shared.dll
+C:\Users\diana\source\repos\BibliotecaClases.shared\Vinculacion.shared\bin\Debug\net8.0\parcialUno.shared.pdb
+C:\Users\diana\source\repos\BibliotecaClases.shared\Vinculacion.shared\obj\Debug\net8.0\parcialUno.shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\source\repos\BibliotecaClases.shared\Vinculacion.shared\obj\Debug\net8.0\parcialUno.shared.AssemblyInfoInputs.cache
+C:\Users\diana\source\repos\BibliotecaClases.shared\Vinculacion.shared\obj\Debug\net8.0\parcialUno.shared.AssemblyInfo.cs
+C:\Users\diana\source\repos\BibliotecaClases.shared\Vinculacion.shared\obj\Debug\net8.0\parcialUno.shared.csproj.CoreCompileInputs.cache
+C:\Users\diana\source\repos\BibliotecaClases.shared\Vinculacion.shared\obj\Debug\net8.0\parcialUno.shared.dll
+C:\Users\diana\source\repos\BibliotecaClases.shared\Vinculacion.shared\obj\Debug\net8.0\refint\parcialUno.shared.dll
+C:\Users\diana\source\repos\BibliotecaClases.shared\Vinculacion.shared\obj\Debug\net8.0\parcialUno.shared.pdb
+C:\Users\diana\source\repos\BibliotecaClases.shared\Vinculacion.shared\obj\Debug\net8.0\ref\parcialUno.shared.dll
